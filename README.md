@@ -1,17 +1,17 @@
-<h3>INFORMAÇÕES:</h3>
-
 ##### Olá seja bem-vindo!
 
-👋 Sou iniciante em programação e estou explorando diferentes linguagens e projetos.
-📚 Atualmente aprendendo HTML, css e JavaScript.
-💡 Buscando evoluir um pouco a cada dia!
+- Sou iniciante em programação e estou explorando diferentes linguagens e projetos.
+
+- Atualmente aprendendo HTML, css e JavaScript.
+
+- Buscando evoluir um pouco a cada dia!
 
 ##### Estudando...
 
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
 - 💻 Análise e Desenvolvimento de Sistemas na Universidade UMFG Cianorte, 2025
 
-###### 🚀 Algumas habilidades: 
+###### Algumas habilidades: 
 
 - HTML & CSS
 - Java Script
