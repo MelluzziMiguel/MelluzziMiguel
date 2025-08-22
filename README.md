@@ -7,6 +7,7 @@
 ##### Estudando...
 
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
+- 💻 Análise e Desenvolvimento de Sistemas na Universidade UMFG Cianorte, 2025
 
 ###### 🚀 Algumas habilidades: 
 
