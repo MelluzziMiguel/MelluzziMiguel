@@ -1,7 +1,5 @@
 ##### Olá seja bem-vindo!
 
-- Sou iniciante em programação e estou explorando diferentes linguagens e projetos.
-
 - Atualmente aprendendo HTML, css e JavaScript.
 
 - Buscando evoluir um pouco a cada dia!
