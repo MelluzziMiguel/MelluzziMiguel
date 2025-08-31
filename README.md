@@ -12,7 +12,7 @@
 ###### Algumas habilidades: 
 
 - HTML & CSS
-- Java Script
+- JavaScript
 
   <div style="display: inline-block" align="center"></br>
   <img align="center" alt="AnaHtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
