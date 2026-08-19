@@ -1,6 +1,5 @@
 ##### Olá seja bem-vindo!
 
-- Atualmente aprendendo HTML, css e JavaScript.
 
 - Buscando evoluir um pouco a cada dia!
 
@@ -9,10 +8,6 @@
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
 - 💻 Análise e Desenvolvimento de Sistemas na Universidade UMFG Cianorte, 2025
 
-###### Algumas habilidades: 
-
-- HTML & CSS
-- JavaScript
 
   <div style="display: inline-block" align="center"></br>
   <img align="center" alt="AnaHtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
